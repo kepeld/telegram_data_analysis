@@ -13,7 +13,7 @@ This research investigates Telegram messaging patterns with a special focus on p
 
 ![Sentiment Flow Analysis](images/sentiment_analysis_channels.png)
 ![Response Time Analysis](images/response_time_analysis.png)
-![Sentiment Distribution by Hour](images/sentiment_analysis_daily.png)
+![Sentiment Distribution by Hour](images/sentiment_analysis_trump_election.png)
 
 ## 📊 Key Findings
 1. **Personal Communication Patterns**
